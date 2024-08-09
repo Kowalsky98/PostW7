@@ -1,0 +1,6 @@
+Verificador de Instalacion/
+├── Program.cs
+├── Verificador.cs
+├── Instalador.cs
+├── RegistroInicio.cs
+└── Arquitectura.txt

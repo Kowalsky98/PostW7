@@ -1,0 +1,14 @@
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\bin\Debug\net8.0\VerificadorDeInstalacion.exe
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\bin\Debug\net8.0\VerificadorDeInstalacion.deps.json
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\bin\Debug\net8.0\VerificadorDeInstalacion.runtimeconfig.json
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\bin\Debug\net8.0\VerificadorDeInstalacion.dll
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\bin\Debug\net8.0\VerificadorDeInstalacion.pdb
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\obj\Debug\net8.0\VerificadorDeInstalacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\obj\Debug\net8.0\VerificadorDeInstalacion.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\obj\Debug\net8.0\VerificadorDeInstalacion.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\obj\Debug\net8.0\VerificadorDeInstalacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\obj\Debug\net8.0\VerificadorDeInstalacion.dll
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\obj\Debug\net8.0\refint\VerificadorDeInstalacion.dll
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\obj\Debug\net8.0\VerificadorDeInstalacion.pdb
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\obj\Debug\net8.0\VerificadorDeInstalacion.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Post en C\VerificadorDeInstalacion\obj\Debug\net8.0\ref\VerificadorDeInstalacion.dll
